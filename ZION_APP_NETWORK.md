@@ -1,22 +1,16 @@
-# 🌐 Part of the Zion AI App Network
+# Zion AI App Network — Interlinks
 
-This app is part of the **Zion AI App Network** — 800+ free, open-source AI apps and tools by [Zion Tech Group](https://ziontechgroup.com).
+This app is part of the **Zion AI App Network**: 300+ free, open-source, interlinked AI tools maintained by Zion Tech Group.
 
-## 🔗 Network Links
-- **Network hub (live):** https://ziontechgroup.com/zion-app-network/
-- **GitHub hub:** https://github.com/Zion-support/zion-app-network
-- **Apps index:** https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
-- **Catalog:** https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+- 🏠 Homepage: https://ziontechgroup.com
+- 🧭 Apps catalog: https://ziontechgroup.com/apps/
+- 🗺️ Network map: https://ziontechgroup.com/apps/network.html
+- 🌐 Network hub: https://ziontechgroup.com/zion-app-network/
+- 📚 Content hub (guides & spotlights): https://ziontechgroup.com/apps/content-hub.html
+- 🆓 Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
+- 💼 GitHub org: https://github.com/Zion-support
+- ✉️ Commercial: commercial@ziontechgroup.com
 
-## 🔎 Free AI Discovery (always online, always free)
-Not sure which apps fit your stack? Take the **free 2-minute AI Discovery questionnaire** — personalized picks emailed instantly to you and our commercial team:
-- https://ziontechgroup.com/discovery/ (PT-BR)
-- https://ziontechgroup.com/app-network-discovery.html (EN)
+**Free Discovery benefits:** answer ~6 questions, get an instant on-screen report with matched apps plus an email copy to you and commercial@ziontechgroup.com the moment you submit. No signup, no card, always free.
 
-## 🧩 Related apps
-- https://ziontechgroup.com/sla-breach-predictor/
-- https://ziontechgroup.com/support-ticket-triager/
-- https://ziontechgroup.com/zion-app-network/
-
----
-© Zion Tech Group · commercial@ziontechgroup.com
+**Latest batches:** Batch 85 HR & People AI · Batch 84 Nonprofit & Social Impact AI · Batch 83 Insurance & Risk AI · Batch 82 Telecom & Connectivity AI — https://ziontechgroup.com/apps/
